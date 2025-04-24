@@ -1,7 +1,5 @@
 # DeepChoice: Enhancing E-Commerce with AI Recommendation Systems
 
-![Poster Snapshot](./CS6140Poster_36x24.pptx.pdf)
-
 This repository contains the code, report, and poster for our final project in the CS6140 Machine Learning course at Northeastern University (Spring 2025). The project explores various recommendation system techniques on the Amazon Reviews dataset, including:
 
 - Traditional collaborative filtering methods (SVD, KNN)
